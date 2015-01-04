@@ -192,3 +192,10 @@ button:hover, button:active { background: rgba(0,0,0,0.2); }
 .fs3 {
 	font-size: 20px;
 }
+.round {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
